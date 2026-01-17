@@ -1,6 +1,6 @@
 # Security Recovery Core - Build Instructions
 
-#Web Build Guide
+# Web Build Guide
 https://security-recovery-core.droploot.org/docs-build.html
 
 ## Firmware Build
