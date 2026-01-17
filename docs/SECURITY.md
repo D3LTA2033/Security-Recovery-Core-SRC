@@ -1,5 +1,8 @@
 # Security Recovery Core - Security Model
 
+# Security Detailed
+https://security-recovery-core.droploot.org/docs-security.html
+
 ## Threat Model
 
 ### Protected Against
