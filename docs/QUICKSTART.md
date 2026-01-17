@@ -1,8 +1,7 @@
 # Security Recovery Core - Quick Start Guide
 
 # Web Guide
-https://security-recovery-core.droploot.org/index.html
-(SCROLL TO QUICK START OR CLICK QUICK START ON NAVIGATION BAR.)
+https://security-recovery-core.droploot.org/index.html#quickstart
 
 ## 5-Minute Setup
 
