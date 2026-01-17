@@ -3,6 +3,9 @@
 # Web uninstall guide
 https://security-recovery-core.droploot.org/removal-process.html
 
+# Wiki
+https://security-recovery-core.droploot.org/wiki.html
+
 ## ⚠️ IMPORTANT WARNINGS
 
 **Before proceeding with uninstallation:**
