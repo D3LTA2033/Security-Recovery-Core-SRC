@@ -1,5 +1,7 @@
 # Security Recovery Core - Quick Start Guide
 
+https://security-recovery-core.droploot.org/index.html#quickstart
+
 ## 5-Minute Setup
 
 ### Step 1: Prepare USB Device
